@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SimpleToDo.Properties {
+namespace Zaliczenie.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

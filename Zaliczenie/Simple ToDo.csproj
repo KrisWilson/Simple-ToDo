@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2D86FE34-3C65-4F1E-B661-D9BBD058EB21}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SimpleToDo</RootNamespace>
-    <AssemblyName>Simple ToDo</AssemblyName>
+    <RootNamespace>Zaliczenie</RootNamespace>
+    <AssemblyName>Zaliczenie</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
