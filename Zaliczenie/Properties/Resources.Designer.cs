@@ -123,16 +123,6 @@ namespace Zaliczenie.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pokeball {
-            get {
-                object obj = ResourceManager.GetObject("pokeball", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap wallhaven_640333 {
             get {
                 object obj = ResourceManager.GetObject("wallhaven-640333", resourceCulture);

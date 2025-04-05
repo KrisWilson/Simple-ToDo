@@ -81,7 +81,7 @@ namespace Zaliczenie
             PictureBox pictureBox = new PictureBox();
             pictureBox.Size = new Size(40, 40);
             pictureBox.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox.Image = Properties.Resources.pokeball;
+            pictureBox.Image = Properties.Resources.done;
             pictureBox.BackColor = Color.Transparent;
             pictureBox.Click += new EventHandler(selectedCategory);
             pictureBox.MouseEnter += new EventHandler(selectingCategory);

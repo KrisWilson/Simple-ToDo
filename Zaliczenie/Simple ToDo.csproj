@@ -152,7 +152,6 @@
     <None Include="Resources\armor.png" />
     <None Include="Resources\plus.png" />
     <None Include="Resources\done.png" />
-    <Content Include="Resources\pokeball.png" />
     <None Include="Resources\heart.png" />
     <None Include="Resources\wallhaven-640333.jpg" />
     <Content Include="Resources\Ikonka.ico" />
